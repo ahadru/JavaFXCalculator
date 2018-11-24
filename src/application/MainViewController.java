@@ -290,38 +290,5 @@ public class MainViewController {
 				downLabelStatus = false;
 			}
 		}
-		
-		//this upper label
-//		if(x == butDot) {
-//			if(upLabelStatus == false) {
-//				if(dotStatus == false) {
-//					String string = upLabel.getText();
-//					String string2 = x.getText();
-//					upLabel.setText(string + string2);
-//					
-//					dotStatus = true;
-//				}
-//			}
-//			else{
-//				String string = x.getText();
-//				upLabel.setText(string);
-//				
-//				upLabelStatus = false;
-//			}
-//		}
-//		else {
-//			if(upLabelStatus == false) {
-//				String string = upLabel.getText();
-//				String string2 = x.getText();
-//				upLabel.setText(string + string2);
-//			}
-//			else {
-//				String string2 = x.getText();
-//				upLabel.setText(string2);
-//				
-//				upLabelStatus = false; 
-//			}
-//		}
 	}
-	
 }
